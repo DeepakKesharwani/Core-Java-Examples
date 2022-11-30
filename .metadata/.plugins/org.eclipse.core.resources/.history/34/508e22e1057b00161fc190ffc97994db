@@ -1,0 +1,11 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+		SingleInheritance s = new SingleInheritance();
+		s.m1();
+		s.hashCode();
+		
+		
+	}
+}

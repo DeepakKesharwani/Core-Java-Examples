@@ -1,0 +1,7 @@
+package comparator;
+
+import java.util.Comparator;
+
+public class SBComparator implements Comparator<StringBuffer> {
+
+}

@@ -1,0 +1,28 @@
+import java.util.Collection;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Set;
+
+
+public class MyMap {
+
+	public static void main(String[] args) {
+		Map<String,Integer> map = new HashMap<>();
+		map.put("A", 123);
+		map.put("B", 456);
+		map.put("C", 789);
+		map.put("D", 98);
+		Set<String> keySet = map.keySet();
+		System.out.println("Keys:"+keySet);
+		Collection<Integer> values = map.values();
+		System.out.println("Values"+values);
+		
+		for(String key : keySet){
+			System.out.println("Key:" + key + " Value:" + map.get(key));
+		}
+		
+		
+		
+		
+	}
+}

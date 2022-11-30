@@ -1,0 +1,9 @@
+package maps;
+
+public class WeakHashMapDemo {
+
+	public static void main(String[] args) {
+
+	}
+
+}

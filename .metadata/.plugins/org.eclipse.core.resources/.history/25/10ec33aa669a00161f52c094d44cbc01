@@ -1,0 +1,17 @@
+package sortingobjects;
+
+import java.util.Set;
+import java.util.TreeSet;
+
+public class Test {
+
+	public static void main(String[] args) {
+
+		Set<Employee> set = new TreeSet<>();
+		set.add(new Employee(1, "Obama"));
+		set.add(new Employee(4, "Bharath"));
+		set.add(new Employee(2, "Trump"));
+		set.add(new Employee(3, "Tom"));
+
+	}
+}

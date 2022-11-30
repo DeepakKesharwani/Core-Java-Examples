@@ -1,0 +1,8 @@
+package moreinheritanceconcepts;
+
+public class NonFinalClass extends FinalClass{
+
+	 void method(){
+		System.out.println("final method");
+	}
+}

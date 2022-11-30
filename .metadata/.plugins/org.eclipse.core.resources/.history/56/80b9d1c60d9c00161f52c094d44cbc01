@@ -1,0 +1,14 @@
+package maps;
+
+public class User {
+
+	public String toString() {
+		return "user";
+
+	}
+
+	public void finalize() {
+		System.out.println("Finalize Called");
+	}
+
+}

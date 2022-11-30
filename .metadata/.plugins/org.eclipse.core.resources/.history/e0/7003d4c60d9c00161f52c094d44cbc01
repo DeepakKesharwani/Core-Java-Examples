@@ -1,0 +1,11 @@
+package maps;
+
+public class WeakHashMapDemo {
+
+	public static void main(String[] args) {
+		
+		Map<User,String> map = new HashMap<>;
+
+	}
+
+}

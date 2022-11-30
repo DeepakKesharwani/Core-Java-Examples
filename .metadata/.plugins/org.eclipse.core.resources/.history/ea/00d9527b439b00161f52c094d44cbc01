@@ -1,0 +1,11 @@
+public class ShortCircuitOperators {
+
+	public static void main(String[] args) {
+
+		boolean x = true, y = false;
+		
+		
+
+	}
+
+}

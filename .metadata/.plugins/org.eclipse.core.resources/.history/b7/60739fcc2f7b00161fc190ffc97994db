@@ -1,0 +1,18 @@
+import java.util.Scanner;
+
+
+public class AddTwoNumber {
+
+	public static void main(String[] args) {
+		int a,b,c;
+		
+		System.out.println("Enter two integers:");
+		Scanner scanner = new Scanner(System.in);
+		a = scanner.nextInt();
+		b = scanner.nextInt();
+		c= a+b
+		
+
+	}
+
+}

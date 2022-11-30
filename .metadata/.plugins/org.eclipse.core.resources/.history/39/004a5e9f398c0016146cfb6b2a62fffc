@@ -1,0 +1,14 @@
+package set;
+
+import java.util.Random;
+
+public class HashSetDemo {
+
+	public static void main(String[] args) {
+		
+		Random obj = new Random();
+		
+
+	}
+
+}

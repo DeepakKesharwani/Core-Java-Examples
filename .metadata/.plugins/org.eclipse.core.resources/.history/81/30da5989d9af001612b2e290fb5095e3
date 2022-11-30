@@ -1,0 +1,17 @@
+package com.bharath.java8.streams;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class UpperToLowerCase {
+
+	public static void main(String[] args) {
+
+		List<String> l1 = new ArrayList<>();
+		l1.add("JOHN");
+		l1.add("BHARATH");
+		l1.add("JIM");
+
+	}
+
+}

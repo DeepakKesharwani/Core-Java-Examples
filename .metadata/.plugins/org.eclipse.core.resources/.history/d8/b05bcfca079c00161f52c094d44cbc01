@@ -1,0 +1,13 @@
+package maps;
+
+import java.util.HashMap;
+
+public class IdentityHashMapDemo {
+
+	public static void main(String[] args) {
+		
+		Map<Integer,String> customerMap = new HashMap<>();
+
+	}
+
+}

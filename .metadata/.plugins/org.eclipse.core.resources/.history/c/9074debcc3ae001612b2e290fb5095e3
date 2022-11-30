@@ -1,0 +1,9 @@
+package java8features;
+
+public interface A {
+	
+	 void myMethod();
+	 
+	 void myMethod1();
+
+}

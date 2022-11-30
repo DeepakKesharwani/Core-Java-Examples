@@ -1,0 +1,7 @@
+package moreinheritanceconcepts;
+
+public class NonFinalClass extends FinalClass {
+	public static void main(String[] args) {
+				System.out.println(FinalClass.pi);;
+	}
+}

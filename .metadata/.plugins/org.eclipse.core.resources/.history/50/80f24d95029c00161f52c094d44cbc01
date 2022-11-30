@@ -1,0 +1,13 @@
+package maps;
+
+import java.util.HashMap;
+
+public class HashMapDemo {
+
+	public static void main(String[] args) {
+		
+		Map<String,Integer> map = new HashMap<>()
+
+	}
+
+}

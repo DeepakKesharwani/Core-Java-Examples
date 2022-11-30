@@ -1,0 +1,17 @@
+public class StringMethods {
+
+	public static void main(String[] args) {
+		String s = "Hello World";
+
+		System.out.println("Length of the string is:" + s.length());
+		System.out.println("indexOf:" + s.indexOf('o'));
+		System.out.println("charAt:" + s.charAt(3));
+
+		System.out.println("substring with beginning index:" + s.substring(2));
+		System.out.println("substring with begin and end index:" + s.substring(0, 4));
+
+		String[] result = s.split(" ");
+		System.out.println(result);
+
+	}
+}

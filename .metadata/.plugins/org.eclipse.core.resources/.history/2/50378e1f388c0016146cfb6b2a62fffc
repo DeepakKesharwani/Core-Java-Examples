@@ -1,0 +1,12 @@
+package random;
+
+import java.util.Random;
+
+public class RandomDemo {
+
+	public static void main(String[] args) {
+		Random obj = new Random();
+
+	}
+
+}

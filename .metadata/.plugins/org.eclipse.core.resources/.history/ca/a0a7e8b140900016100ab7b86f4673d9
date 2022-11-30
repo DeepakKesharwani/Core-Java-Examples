@@ -1,0 +1,13 @@
+
+public class ImmutableValuesDemo {
+	
+	String name;
+	int id;
+
+	public static void main(String[] args) {
+		
+		
+
+	}
+
+}

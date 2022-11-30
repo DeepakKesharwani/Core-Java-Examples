@@ -1,0 +1,12 @@
+
+public class SingleInheritance {
+	
+	void m(){
+		System.out.println("Inside m");
+	}
+
+	public static void main(String[] args) {
+		SingleInheritance s = new SingleInheritance();
+		s.m();
+	}
+}

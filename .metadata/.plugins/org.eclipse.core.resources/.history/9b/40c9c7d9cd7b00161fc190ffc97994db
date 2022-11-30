@@ -1,0 +1,9 @@
+package moreinheritanceconcepts;
+
+public class ChildClass extends SuperClass {
+	
+	ChildClass(){
+		System.out.println("No Arg ChildClass Constructor");
+	}
+
+}

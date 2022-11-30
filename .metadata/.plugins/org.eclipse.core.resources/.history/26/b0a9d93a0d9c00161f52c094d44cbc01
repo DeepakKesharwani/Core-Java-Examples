@@ -1,0 +1,13 @@
+package maps;
+
+public class User {
+	
+	public String toString(){
+		return "user";
+	}
+	
+	public void finalize(){
+		sysout
+	}
+
+}

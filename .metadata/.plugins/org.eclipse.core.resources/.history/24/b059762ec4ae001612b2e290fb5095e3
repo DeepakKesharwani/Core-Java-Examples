@@ -1,0 +1,9 @@
+
+@FunctionalInterface
+public interface A {
+	
+	void myMethod();
+	
+	void myMehtod1();
+
+}

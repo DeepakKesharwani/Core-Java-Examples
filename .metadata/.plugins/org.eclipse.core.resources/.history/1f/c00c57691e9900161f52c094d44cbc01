@@ -1,0 +1,13 @@
+package list;
+
+import java.util.LinkedList;
+
+public class LIDemo {
+
+	public static void main(String[] args) {
+		
+		List<String> list = new LinkedList<>()
+
+	}
+
+}
